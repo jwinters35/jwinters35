@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Winters!
-- 👀 I’m interested in becoming a software engineer and/or cloud engineer. 
+- 👀 I’m a Cybersecurity Enthusiast
 - 🌱 After I've finished learning AWS, HTML, CSS, and JavaScript; I currently started learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/james-winters-9587a6152/
